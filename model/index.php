@@ -1,5 +1,10 @@
 <?php 
 
+require_once __DIR__ . '/../model/cat.php';
+require_once __DIR__ . '/../model/dog.php';
+require_once __DIR__ . '/../model/products.php';
+
+
 ?>
 
 <!DOCTYPE html>
